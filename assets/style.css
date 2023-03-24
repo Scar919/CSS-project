@@ -1,0 +1,43 @@
+*{
+
+background-color: black;
+color: white;
+}
+
+
+.header{
+    text-align: center;
+    border: 50px;
+    border-style: dotted;
+}
+
+
+.grid-cointainer{
+    display: flex;
+    flex: 1 0 900px; 
+    justify-content: flex; 
+     
+}
+
+.grid {
+    display: flex;
+}
+
+div{
+    width: 300px;
+    border: 50px;
+    background-color: grey;
+    border-color:white;
+    padding: 10x;
+    margin: 10px;
+    display: grid;
+    border-style: solid;
+}
+
+div p{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
